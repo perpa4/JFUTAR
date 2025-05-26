@@ -1,0 +1,10 @@
+Útvonal: Nyugati pályaudvar ➔ Kelenföld vasútállomás
+Indulás: 15:05 - Érkezés: 15:42
+Időtartam: 37 perc
+Séta: 0 m
+
+Lépések:
+  [Járat] 15:05 • Budapest-Nyugati: S50 ➔ Monor
+  [Járat] 15:27 • Kőbánya-Kispest: G43 ➔ Székesfehérvár
+
+Érkezési hely: Kelenföld vasútállomás

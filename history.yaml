@@ -1,0 +1,26 @@
+!!jfutar.managers.HistoryData
+stops:
+- &id002 {id: BKK_CSF00936, lat: 47.510465, lon: 19.056699, name: Nyugati pályaudvar,
+  postcode: '1062', subTitle: null}
+- {id: BKK_F00954, lat: 0.0, lon: 0.0, name: Deák Ferenc tér, postcode: null, subTitle: null}
+- {id: BKK_F00063, lat: 0.0, lon: 0.0, name: Batthyány tér, postcode: null, subTitle: null}
+trips:
+- from: {id: osm_W_315316081, lat: 47.4717509, lon: 19.0518801, name: Baranyai utca,
+    postcode: null, subTitle: 'Lakóövezeti út, Budapest 1117'}
+  to: {id: BKK_CS005513748, lat: 47.178195, lon: 20.174767, name: Szolnok, postcode: '5000',
+    subTitle: null}
+- from: {id: BKK_CSF00936, lat: 47.510465, lon: 19.056699, name: Nyugati pályaudvar,
+    postcode: '1062', subTitle: null}
+  to: {id: BKK_CS007896, lat: 47.464543, lon: 19.020661, name: Kelenföld vasútállomás,
+    postcode: '1115', subTitle: null}
+- from: {id: BKK_CSF00065, lat: 47.50641, lon: 19.038739, name: Batthyány tér, postcode: '1011',
+    subTitle: null}
+  to: *id002
+- from: {id: BKK_CS089515, lat: 47.489528, lon: 19.061737, name: Kálvin tér, postcode: '1092',
+    subTitle: null}
+  to: {id: BKK_CS008940, lat: 47.597905, lon: 19.054758, name: Békásmegyer, postcode: '1039',
+    subTitle: null}
+- from: {id: BKK_CS009021, lat: 47.592612, lon: 19.357961, name: Gödöllő, postcode: '2100',
+    subTitle: null}
+  to: {id: BKK_CSF00936, lat: 47.510465, lon: 19.056699, name: Nyugati pályaudvar,
+    postcode: '1062', subTitle: null}
