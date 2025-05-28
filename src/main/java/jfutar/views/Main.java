@@ -17,6 +17,7 @@ import java.util.Objects;
  */
 public final class Main extends Application {
 
+    // Igen, benne hagytam az API kulcsot, de törölve van lol, lényegtelen.
     public static final String apiKey = "fc11cf25-f339-40a3-ad5d-d76f8898aa86";
     public static final PlanView PLAN_VIEW = new PlanView();
 
