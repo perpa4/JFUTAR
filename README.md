@@ -11,6 +11,13 @@ This is a Java-based client I developed as part of a **Java course** at my Unive
 - **History** – Review your previous searches.
 - **User Interface** – The UI (built with JavaFX and CSS) is clean and user-friendly.
 
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/e34147f7-9593-4df2-9c6c-de63582a6071)
+![image](https://github.com/user-attachments/assets/41f34e5c-0b00-4535-98a3-fd4466368326)
+![image](https://github.com/user-attachments/assets/2f1c750b-6d4f-4dcb-bbcf-4f0bb9e337b4)
+![image](https://github.com/user-attachments/assets/13dbc267-6191-460a-876f-8ba506b0835d)
+
 ## 🛠️ Tech Stack
 
 - **Java** – Main programming language used for logic
