@@ -4,12 +4,12 @@ This is a Java-based client I developed as part of a **Java course** at my Unive
 
 ## ✨ Features
 
-- **Search** – Look up specific routes or stops and see all the relevant details.
-- **Journey Planning** – Plan trips between any two locations with the option to choose your preferred travel modes. It shows **multiple itinerary options** with travel times, transfer points, and walking segments.
-- **Journey Details** – Everything is clickable! You can click on any stop or route to see departures or the remaining stops along the way.
-- **Favorites** – Save your frequently used stops and routes for quick access.
-- **History** – Review your previous searches.
-- **User Interface** – The UI (built with JavaFX and CSS) is clean and user-friendly.
+- **Search** - Look up specific routes or stops and see all the relevant details.
+- **Journey Planning** - Plan trips between any two locations with the option to choose your preferred travel modes. It shows **multiple itinerary options** with travel times, transfer points, and walking segments.
+- **Journey Details** - Everything is clickable! You can click on any stop or route to see departures or the remaining stops along the way.
+- **Favorites** - Save your frequently used stops and routes for quick access.
+- **History** - Review your previous searches.
+- **User Interface** - The UI (built with JavaFX and CSS) is clean and user-friendly.
 
 ## 📸 Screenshots
 
@@ -20,9 +20,9 @@ This is a Java-based client I developed as part of a **Java course** at my Unive
 
 ## 🛠️ Tech Stack
 
-- **Java** – Main programming language used for logic
-- **JavaFX and CSS** – Used for building the UI
-- **BKK Futár API Integration** – The app connects to the official BKK Futár API for real-time public transport data
+- **Java** - Main programming language used for logic
+- **JavaFX and CSS** - Used for building the UI
+- **BKK Futár API Integration** - The app connects to the official BKK Futár API for real-time public transport data
 
 ## 🎓 About the Project
 
